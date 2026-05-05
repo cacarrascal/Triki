@@ -9,6 +9,7 @@ Juego clásico Tic Tac Toe (Tres en Raya) implementado con React y Vite.
 - 📊 Historial de jugadas
 - 🎨 Diseño moderno con animaciones
 - ✨ Resalta la línea ganadora
+- 🎯 Icono personalizado
 
 ## Estructura
 
