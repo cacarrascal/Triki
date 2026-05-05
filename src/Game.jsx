@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Board from './components/Board'
+import Footer from './components/Footer'
 import './Game.css'
 
 /**
@@ -164,6 +165,8 @@ function Game() {
           </div>
         </div>
       )}
+
+      <Footer />
     </div>
   )
 }

@@ -1,6 +1,6 @@
 # Triki - Tres en Raya
 
-Juego经典的 Tic Tac Toe (Tres en Raya) implementado con React y Vite.
+Juego clásico Tic Tac Toe (Tres en Raya) implementado con React y Vite.
 
 ## Características
 
@@ -17,9 +17,12 @@ src/
 ├── main.jsx
 ├── index.css
 ├── Game.jsx / Game.css
-└── components/
-    ├── Square.jsx / Square.css
-    └── Board.jsx / Board.css
+├── components/
+│   ├── Square.jsx / Square.css
+│   ├── Board.jsx / Board.css
+│   └── Footer.jsx / Footer.css
+└── img/
+    └── 1.png
 ```
 
 ## Instalación
